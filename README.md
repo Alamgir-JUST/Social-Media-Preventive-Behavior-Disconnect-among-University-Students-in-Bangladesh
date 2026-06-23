@@ -98,7 +98,7 @@ See [`data/data_dictionary.md`](data/data_dictionary.md) for the full variable c
 
 ## Analysis pipeline
 
-The notebook ([`notebooks/Preventive_Health_Heliyon.ipynb`](notebooks/Preventive_Health_Heliyon.ipynb)) is fully annotated and runs top to bottom. Its sections map directly to the manuscript:
+The notebook ([`notebooks/Preventive_Health_Heliyon.ipynb`](mgir-JUST/Social-Media-Preventive-Behavior-Disconnect-among-University-Students-in-Bangladesh/blob/main/Preventive_Health_Heliyon.ipynb)) is fully annotated and runs top to bottom. Its sections map directly to the manuscript:
 
 1. **Environment setup & data loading** — plotting configuration, load the survey CSV.
 2. **Data preprocessing (§3.4)** — column renaming, Likert encoding with the coding-error correction, reverse-coding, item–total reliability diagnostics, and final scale construction.
