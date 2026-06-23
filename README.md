@@ -32,9 +32,9 @@ This repository contains the data, analysis code, and supporting materials for t
 
 ## Overview
 
-Social media is now a dominant channel through which young adults encounter health information, yet exposure does not reliably translate into preventive action — an "engagement–behavior gap" that is especially pronounced among university students. Drawing on the **Health Belief Model (HBM)** and the **Theory of Planned Behavior (TPB)**, this study tests whether social media acts on preventive behavior directly or indirectly through the cognitions and norms it cultivates.
+Social media is now a dominant channel through which young adults encounter health information, yet exposure does not reliably translate into preventive action, an "engagement–behavior gap" that is especially pronounced among university students. Drawing on the **Health Belief Model (HBM)** and the **Theory of Planned Behavior (TPB)**, this study tests whether social media acts on preventive behavior directly or indirectly through the cognitions and norms it cultivates.
 
-A cross-sectional survey of **410 students** from public and private universities in Bangladesh was analyzed using reliability testing, Pearson correlation, hierarchical regression, and **bootstrapped parallel mediation**. The headline result: although social media engagement correlates with preventive behavior at the zero-order level, that association **collapses to non-significance** once health beliefs and peer norms are controlled — a pattern of **full mediation**. The practical implication is that belief- and peer-targeted digital campaigns are more promising than exposure-centric strategies.
+A cross-sectional survey of **410 students** from public and private universities in Bangladesh was analyzed using reliability testing, Pearson correlation, hierarchical regression, and **bootstrapped parallel mediation**. The headline result: although social media engagement correlates with preventive behavior at the zero-order level, that association **collapses to non-significance** once health beliefs and peer norms are controlled, a pattern of **full mediation**. The practical implication is that belief- and peer-targeted digital campaigns are more promising than exposure-centric strategies.
 
 ## Key findings
 
