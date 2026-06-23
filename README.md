@@ -168,12 +168,6 @@ pip install -r requirements.txt
 
 Bootstrapping uses a fixed seed (`np.random.default_rng(42)`), so the mediation confidence intervals are reproducible.
 
-## Outputs
-
-Running the notebook produces:
-
-- **`Figure_SocialMedia_Disconnect.png`** — Figure 2. Panel A contrasts zero-order correlations with adjusted regression coefficients (the social-media association collapses while beliefs and peers persist); Panel B decomposes the total effect into a non-significant direct effect and significant indirect effects.
-- **`Results_Tables.xlsx`** — a single workbook with nine sheets: demographics, reliability/descriptives, correlations, hierarchical regression, mediation, group comparisons, and the three multi-select tables (past behaviors, barriers, strategies).
 
 ## Ethics
 
