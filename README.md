@@ -101,8 +101,8 @@ See [`data/data_dictionary.md`](data/data_dictionary.md) for the full variable c
 The notebook ([`notebooks/Preventive_Health_Heliyon.ipynb`](/Preventive_Health_Heliyon.ipynb)) is fully annotated and runs top to bottom. Its sections map directly to the manuscript:
 
 1. **Environment setup & data loading** — plotting configuration, load the survey CSV.
-2. **Data preprocessing (§3.4)** — column renaming, Likert encoding with the coding-error correction, reverse-coding, item–total reliability diagnostics, and final scale construction.
-3. **Results (§4)**
+2. **Data preprocessing (3.4)** — column renaming, Likert encoding with the coding-error correction, reverse-coding, item–total reliability diagnostics, and final scale construction.
+3. **Results (4)**
    - Sample demographics (Table 1)
    - Construct correlations (Table 3)
    - Hierarchical OLS regression — Model 1 vs. Model 2 (Table 4)
@@ -185,7 +185,7 @@ Ethical approval was granted by <Skill Morph Research Lab., Skill Morph, Dhaka, 
 
 If you use this code or data, please cite the article (details to be finalized upon publication):
 
-> <Author(s)>. (2026). *The Social Media–Preventive Behavior Disconnect among University Students in Bangladesh: A Cross-Sectional Mediation Study.* Heliyon. DOI: \<to be added on acceptance\>
+> <Farhana Yasmin, Md. Waresul Zannat Razu, Md. Alamgir Hossain>. (2026). *The Social Media–Preventive Behavior Disconnect among University Students in Bangladesh: A Cross-Sectional Mediation Study.* Heliyon. DOI: \<to be added on acceptance\>
 
 BibTeX:
 
